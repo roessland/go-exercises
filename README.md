@@ -1,9 +1,21 @@
 # go-exercises
 Exercises from "The Go Programming Language"
 
-## Skipped exercises
+## Exercises
 
-- [ ] Exercise 2.1
+- [x] Exercise 1.1: Echo1
+- [x] Exercise 1.2: Echo2
+- [x] Exercise 1.3: String concat benchmark
+- [x] Exercise 1.4: Duplicate lines detection
+- [x] Exercise 1.5: Lissajous color swap
+- [x] Exercise 1.6: Lissajous new awesome palette
+- [x] Exercise 1.7: Fetch webpage using io.Copy
+- [x] Exercise 1.8: Fetch webpage HasPrefix
+- [x] Exercise 1.9: Fetch webpage print statuscode
+- [x] Exercise 1.10: Fetch webpages concurrently to file
+- [x] Exercise 1.11: Fetch webpages concurrently resiliently
+- [x] Exercise 1.12: Lissajous web server
+- [ ] Exercise 2.1: Kelvin/Fahrenheit conversion
 - [ ] Exercise 2.2: Unit conversion program
 - [ ] Exercise 2.3: PopCount bit counting performance
 - [ ] Exercise 2.4: PopCount loop performance
@@ -11,3 +23,66 @@ Exercises from "The Go Programming Language"
 - [ ] Exercise 3.7: Newton's method complex solutions renderer
 - [ ] Exercise 3.8: Fractal renderer using arbitrary precision integers
 - [ ] Exercise 3.9: Fractal renderer web service
+- [ ] Exercise 3.10: bytes.Buffer comma
+- [ ] Exercise 3.11: Adding commas to floating point numbers
+- [ ] Exercise 3.12: Anagram checker
+- [ ] Exercise 3.13: iota KB, MB, YB declaration
+- [ ] Exercise 4.1: Sha256 popcount
+- [ ] Exercise 4.2: sha256 program
+- [ ] Exercise 4.3: Reverse array
+- [ ] Exercise 4.4: Single-pass rotate slice
+- [ ] Exercise 4.5: In-place adjacent duplicate eliminator
+- [ ] Exercise 4.6: In-place unicode space squasher
+- [ ] Exercise 4.7: In-place unicode string reversal
+- [ ] Exercise 4.8: Count unicode categories
+- [ ] Exercise 4.9: Word frequency
+- [ ] Exercise 4.10: Github issues API reader
+- [ ] Exercise 4.11: Github issues API reader/writer
+- [ ] Exercise 4.12: XKCD offline index search
+- [ ] Exercise 4.13: Movie poster downloader
+- [ ] Exercise 4.14: Github repo navigator web service
+- [ ] Exercise 5.1: HTML traverse recursion
+- [ ] Exercise 5.2: html element counter
+- [ ] Exercsie 5.3: html text node printer
+- [ ] Exercise 5.4: html image extractor
+- [ ] Exercise 5.5: count words and images
+- [ ] Exercise 5.6: Named returns
+- [ ] Exercise 5.7: html pretty printer
+- [ ] Exercise 5.8: selective html pretty printer
+- [ ] Exercise 5.9: string variable replacement, first-class funcs
+- [ ] Exercise 5.10: Toposort using maps
+- [ ] Exercise 5.11: Toposort with cycle detection
+- [ ] Exercise 5.12: anonymous functions, refactoring away globals
+- [ ] Exercise 5.13: Website crawl/mirror
+- [ ] Exercise 5.14: BFS
+- [ ] Exercise 5.15: variadic min/max
+- [ ] Exercise 5.16: Variadic strings.Join
+- [ ] Exercise 5.17: Variadic html elementsByTagName func
+- [ ] Exercise 5.18: Defer to close file
+- [ ] Exercise 5.19: Panic and recover as return type
+- [ ] Exercise 6.1: IntSet1: methods
+- [ ] Exercise 6.2: IntSet2: variadic
+- [ ] Exercise 6.3: IntSet3: union
+- [ ] Exercise 6.4: IntSet4: range
+- [ ] Exercise 6.5: IntSet5: uint
+- [ ] Exercise 7.1: WordCounter interface
+- [ ] Exercise 7.2: CountingWriter
+- [ ] Exercise 7.3: String() for a tree
+- [ ] Exercise 7.4: DIY strings.NewReader
+- [ ] Exercise 7.5: LimitReader
+- [ ] Exercise 7.6: flag
+- [ ] Exercise 7.7: Stringer
+- [ ] Exercise 7.8: Multi-tier sort vs repeated stable sort
+- [ ] Exercise 7.9: Playlist sorting web server
+- [ ] Exercise 7.10: IsPalindrome(s sort.Interface)
+- [ ] Exercise 7.11: CRUD app
+- [ ] Exercise 7.12: html/template for lists
+- [ ] Exercise 7.13: expression parser pretty printing
+- [ ] Exercise 7.14: implement Expr interface
+- [ ] Exercise 7.15: Command line expression parser with variables input
+- [ ] Exercise 7.16: Web based calculator using expression parser
+- [ ] Exercise 7.17: xml xpath matcher
+- [ ] Exercise 7.18: read XML to tree
+- [ ] Exercise 8.1: Multiple TCP connections at once using goroutines
+- [ ] Exercise 8.2: Concurrent FTP server
+- [ ] Exercise 8.3: Close half of a TCPConn
